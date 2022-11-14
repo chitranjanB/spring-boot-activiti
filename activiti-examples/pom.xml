@@ -11,7 +11,7 @@
     <properties>
         <activiti.version>5.7</activiti.version>
         
-        <spring.version>3.0.6.RELEASE</spring.version>
+        <spring.version>3.2.18.RELEASE</spring.version>
         <cglib.version>2.2.2</cglib.version>
 
         <logback.version>0.9.29</logback.version>
